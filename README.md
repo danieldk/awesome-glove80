@@ -28,6 +28,7 @@
 ## Hardware modding
 
 * [Glove80 with a trackpoint](https://www.reddit.com/r/ErgoMechKeyboards/comments/16n9dpa/glove80_with_a_trackpoint/) - add a trackpoint to the Glove80 palm rest.
+* [Glove80 spacer](https://www.thingiverse.com/thing:6306695) - spacer for putting the Glove80 halves at a fixed distance.
 * [Tenting leg adapter](http://stl.beta.glove80.com/stl/leg_adapter) - create a printable custom-height tenting leg adapter.
 
 ## Official

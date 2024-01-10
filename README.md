@@ -41,6 +41,7 @@
 * [MoErgo Website](https://www.moergo.com/)
 * [Layout Editor](https://my.glove80.com)
 * [Design Journey](https://www.moergo.com/pages/glove80-ergonomic-keyboard-design-journey-1) - the design journey that led to the Glove80 design.
+* [Official User Glove80 Guide](https://cdn.shopify.com/s/files/1/0695/7078/9649/files/Glove80_User_Guide_1Jan2024.pdf)
 
 ---
 

@@ -19,7 +19,7 @@
 
 * [Glorious Engrammer](https://github.com/sunaku/glove80-keymaps) - extensive keymap based on the Engram layout.
 
-## Keyboard modding
+## Hardware modding
 
 * [Glove80 with a trackpoint](https://www.reddit.com/r/ErgoMechKeyboards/comments/16n9dpa/glove80_with_a_trackpoint/) - Add a trackpoint to the Glove80 palm rest.
 

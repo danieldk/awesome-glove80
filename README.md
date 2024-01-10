@@ -13,6 +13,7 @@
 ### Written
 
 * [Daniël de Kok](https://danieldk.eu/Posts/2023-09-03-Glove80) - with comparisons to the Kinesis Advantage.
+* [Hackaday's Kristina Panos](https://hackaday.com/2023/03/22/glove80-keyboard-sure-fits-like-one/) - with a teardown of the Glove80.
 * [RTINGS](https://www.rtings.com/keyboard/reviews/moergo/glove80) - including latency and switch measurements.
 
 ## Keymaps

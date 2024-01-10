@@ -13,6 +13,7 @@
 ### Written
 
 * [Daniël de Kok](https://danieldk.eu/Posts/2023-09-03-Glove80) - with comparisons to the Kinesis Advantage.
+* [RTINGS](https://www.rtings.com/keyboard/reviews/moergo/glove80) - including latency and switch measurements.
 
 ## Keymaps
 

@@ -21,6 +21,7 @@
 
 ## Switches
 
+* [Glove80 soldering walkthrough](https://github.com/elalitte/glove80solder/) - how to solder switches on the not-soldered variant.
 * [Choc switch curves](https://github.com/bluepylons/Open-Switch-Curve-Meter/tree/main/Force%20curve%20measurements/Kailh%20Choc%20Switches) - empirical foce curve measurements of various Choc switches.
 
 ## Hardware modding

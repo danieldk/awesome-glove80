@@ -25,12 +25,16 @@
 * [Glove80 soldering walkthrough](https://github.com/elalitte/glove80solder/) - how to solder switches on the not-soldered variant.
 * [Choc switch curves](https://github.com/bluepylons/Open-Switch-Curve-Meter/tree/main/Force%20curve%20measurements/Kailh%20Choc%20Switches) - empirical force curve measurements of various Choc switches.
 
-## Hardware modding
+## Hardware extensions
 
-* [Glove80 with a trackpoint](https://www.reddit.com/r/ErgoMechKeyboards/comments/16n9dpa/glove80_with_a_trackpoint/) - add a trackpoint to the Glove80 palm rest.
 * [Glove80 spacer](https://www.thingiverse.com/thing:6306695) - spacer for putting the Glove80 halves at a fixed distance.
 * [Tenting leg adapter](http://stl.beta.glove80.com/stl/leg_adapter) - create a printable custom-height tenting leg adapter.
 * [Keycap tilers](https://www.thingiverse.com/thing:5932496) - you asked for more concavity? This will give you some more.
+* [Glove80 + Orbital trackpads](https://old.reddit.com/r/ErgoMechKeyboards/comments/11xlda7/glove80_orbital_trackpads/) - first publicly spotted use of the Glove80 sidecar.
+
+## Hardware modding
+
+* [Glove80 with a trackpoint](https://www.reddit.com/r/ErgoMechKeyboards/comments/16n9dpa/glove80_with_a_trackpoint/) - add a trackpoint to the Glove80 palm rest.
 
 ## Official
 

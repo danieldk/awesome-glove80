@@ -36,6 +36,12 @@
 
 * [Glove80 with a trackpoint](https://www.reddit.com/r/ErgoMechKeyboards/comments/16n9dpa/glove80_with_a_trackpoint/) - add a trackpoint to the Glove80 palm rest.
 
+## Replacement parts
+
+* Tenting leg bolts: DIN 913 M4x40 - 40 is the length in mm.
+* Locking nuts: DIN985 M4 - to lock in tenting
+* Flex cables: [05-12-D-0101-A-4-06-4-T](https://octopart.com/search?q=05-12-D-0101-A-4-06-4-T) - **unverified**, please make a PR if you can confirm this.
+
 ## Official
 
 * [MoErgo Website](https://www.moergo.com/)
